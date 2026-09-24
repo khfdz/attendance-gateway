@@ -1,0 +1,127 @@
+[2026-09-22 15:58:26] [INFO] === [SERVER] Memulai siklus auto-sync Mekari ===
+[2026-09-22 15:58:26] [INFO] Mekari sudah aktif di server (Ditemukan 5 proses terkait).
+[2026-09-22 15:58:26] [INFO] Service Mekari Server aktif di port 8081.
+[2026-09-22 15:58:26] [INFO] Mengirim perintah Sinkronisasi (Connection ID: 3)...
+[2026-09-22 15:58:26] [SUCCESS] BERHASIL DI SERVER: Sync in progress
+[2026-09-22 15:58:26] [INFO] === [SERVER] Siklus sinkronisasi selesai ===
+[2026-09-24 10:10:05] [INFO] === [SERVER] Memulai siklus auto-sync Mekari ===
+[2026-09-24 10:10:05] [INFO] Mekari sudah aktif di server (Ditemukan 4 proses terkait).
+[2026-09-24 10:10:35] [ERROR] Timeout: Service port 8081 belum merespons setelah 30 detik.
+[2026-09-24 11:09:07] [INFO] === [SERVER] Memulai siklus auto-sync Mekari ===
+[2026-09-24 11:09:07] [INFO] Mekari sudah aktif di server (Ditemukan 1 proses terkait).
+[2026-09-24 11:09:08] [INFO] Service Mekari Server aktif di port 8081.
+[2026-09-24 11:09:08] [INFO] Mengirim perintah Sinkronisasi (Connection ID: 3)...
+[2026-09-24 11:09:08] [SUCCESS] BERHASIL DI SERVER (Connection ID 3): Sync in progress
+[2026-09-24 11:09:08] [SUCCESS] === [SERVER] Siklus sinkronisasi selesai: SUKSES ===
+[2026-09-24 11:17:31] [INFO] === [SERVER] Memulai siklus auto-sync Mekari ===
+[2026-09-24 11:17:31] [INFO] Mekari sudah aktif di server (Ditemukan 1 proses terkait).
+[2026-09-24 11:17:31] [INFO] Service Mekari Server aktif di port 8081.
+[2026-09-24 11:17:31] [INFO] Menunggu inisialisasi database & startup jobs tuntas (3 detik)...
+[2026-09-24 11:17:34] [INFO] Otomatis menggunakan Connection ID yang terdaftar di Server: 3
+[2026-09-24 11:17:34] [INFO] Mengirim perintah Sinkronisasi (Connection ID: 3)...
+[2026-09-24 11:17:34] [SUCCESS] BERHASIL DI SERVER (Connection ID 3): Sync in progress
+[2026-09-24 11:17:34] [SUCCESS] === [SERVER] Siklus sinkronisasi selesai: SUKSES ===
+[2026-09-24 11:31:22] [INFO] === [SERVER] Memulai siklus auto-sync Mekari ===
+[2026-09-24 11:31:22] [INFO] Mekari sudah aktif di server (Ditemukan 5 proses terkait).
+[2026-09-24 11:31:22] [INFO] Service Mekari Server aktif di port 8081.
+[2026-09-24 11:31:24] [INFO] Membaca daftar koneksi aktif dari Mekari Server...
+[2026-09-24 11:31:24] [INFO] Ditemukan 1 koneksi aktif di server.
+[2026-09-24 11:31:24] [INFO] Menyinkronkan Koneksi 'DB MYSQL' (ID: 3)...
+[2026-09-24 11:31:24] [SUCCESS] BERHASIL DI SERVER - 'DB MYSQL' (ID 3): Sync in progress
+[2026-09-24 11:31:24] [SUCCESS] === [SERVER] Siklus sinkronisasi selesai: 1 koneksi sukses tersinkron ===
+[2026-09-24 13:47:42] [INFO] === [SERVER] Memulai siklus auto-sync Mekari ===
+[2026-09-24 13:47:42] [INFO] Aplikasi Mekari sudah berjalan dan service port 8081 aktif.
+[2026-09-24 13:47:42] [INFO] Service Mekari Server aktif di port 8081.
+[2026-09-24 13:47:44] [INFO] Membaca daftar koneksi aktif dari Mekari Server...
+[2026-09-24 13:47:44] [INFO] Ditemukan 1 koneksi aktif di server.
+[2026-09-24 13:47:44] [INFO] Menyinkronkan Koneksi 'DB MYSQL' (ID: 3)...
+[2026-09-24 13:47:44] [SUCCESS] BERHASIL DI SERVER - 'DB MYSQL' (ID 3): Sync in progress
+[2026-09-24 13:47:44] [SUCCESS] === [SERVER] Siklus sinkronisasi selesai: 1 koneksi sukses tersinkron ===
+[2026-09-24 14:11:11] [INFO] === [SERVER] Memulai siklus auto-sync Mekari ===
+[2026-09-24 14:11:11] [INFO] Aplikasi Mekari sudah berjalan dan service port 8081 aktif.
+[2026-09-24 14:11:11] [INFO] Service Mekari Server aktif di port 8081.
+[2026-09-24 14:11:13] [INFO] Membaca daftar koneksi aktif dari Mekari Server...
+[2026-09-24 14:11:13] [INFO] Ditemukan 1 koneksi aktif di server.
+[2026-09-24 14:11:13] [INFO] Menyinkronkan Koneksi 'DB MYSQL' (ID: 3)...
+[2026-09-24 14:11:13] [SUCCESS] BERHASIL DI SERVER - 'DB MYSQL' (ID 3): Sync in progress
+[2026-09-24 14:11:13] [SUCCESS] === [SERVER] Siklus sinkronisasi selesai: 1 koneksi sukses tersinkron ===
+[2026-09-24 14:20:59] [INFO] === [SERVER] Memulai siklus auto-sync Mekari ===
+[2026-09-24 14:20:59] [INFO] Aplikasi Mekari sudah berjalan dan service port 8081 aktif.
+[2026-09-24 14:20:59] [INFO] Service Mekari Server aktif di port 8081.
+[2026-09-24 14.21.01] [INFO] === [SERVER] Memulai siklus auto-sync Mekari ===
+[2026-09-24 14.21.01] [INFO] Aplikasi Mekari sudah berjalan dan service port 8081 aktif.
+[2026-09-24 14.21.01] [INFO] Service Mekari Server aktif di port 8081.
+[2026-09-24 14:21:01] [INFO] Membaca daftar koneksi aktif dari Mekari Server...
+[2026-09-24 14:21:01] [INFO] Ditemukan 1 koneksi aktif di server.
+[2026-09-24 14:21:01] [INFO] Menyinkronkan Koneksi 'DB MYSQL' (ID: 1)...
+[2026-09-24 14:21:01] [SUCCESS] BERHASIL DI SERVER - 'DB MYSQL' (ID 1): Sync in progress
+[2026-09-24 14:21:01] [SUCCESS] === [SERVER] Siklus sinkronisasi selesai: 1 koneksi sukses tersinkron ===
+[2026-09-24 14.21.03] [INFO] Membaca daftar koneksi aktif dari Mekari Server...
+[2026-09-24 14.21.03] [INFO] Ditemukan 1 koneksi aktif di server.
+[2026-09-24 14.21.03] [INFO] Menyinkronkan Koneksi 'DB MYSQL' (ID: 1)...
+[2026-09-24 14.21.03] [SUCCESS] BERHASIL DI SERVER - 'DB MYSQL' (ID 1): Sync in progress
+[2026-09-24 14.21.03] [SUCCESS] === [SERVER] Siklus sinkronisasi selesai: 1 koneksi sukses tersinkron ===
+[2026-09-24 14:21:20] [INFO] === [SERVER] Memulai siklus auto-sync Mekari ===
+[2026-09-24 14:21:20] [INFO] Aplikasi Mekari sudah berjalan dan service port 8081 aktif.
+[2026-09-24 14:21:20] [INFO] Service Mekari Server aktif di port 8081.
+[2026-09-24 14:21:22] [INFO] Membaca daftar koneksi aktif dari Mekari Server...
+[2026-09-24 14:21:22] [INFO] Ditemukan 1 koneksi aktif di server.
+[2026-09-24 14:21:22] [INFO] Menyinkronkan Koneksi 'DB MYSQL' (ID: 1)...
+[2026-09-24 14:21:22] [SUCCESS] BERHASIL DI SERVER - 'DB MYSQL' (ID 1): Sync in progress
+[2026-09-24 14:21:22] [SUCCESS] === [SERVER] Siklus sinkronisasi selesai: 1 koneksi sukses tersinkron ===
+[2026-09-24 14:21:47] [INFO] === [SERVER] Memulai siklus auto-sync Mekari ===
+[2026-09-24 14:21:47] [INFO] Aplikasi Mekari sudah berjalan dan service port 8081 aktif.
+[2026-09-24 14:21:47] [INFO] Service Mekari Server aktif di port 8081.
+[2026-09-24 14:21:49] [INFO] Membaca daftar koneksi aktif dari Mekari Server...
+[2026-09-24 14:21:49] [INFO] Ditemukan 1 koneksi aktif di server.
+[2026-09-24 14:21:49] [INFO] Menyinkronkan Koneksi 'DB MYSQL' (ID: 1)...
+[2026-09-24 14:21:49] [SUCCESS] BERHASIL DI SERVER - 'DB MYSQL' (ID 1): Sync in progress
+[2026-09-24 14:21:49] [SUCCESS] === [SERVER] Siklus sinkronisasi selesai: 1 koneksi sukses tersinkron ===
+[2026-09-24 14.22.00] [INFO] === [SERVER] Memulai siklus auto-sync Mekari ===
+[2026-09-24 14.22.00] [INFO] Aplikasi Mekari sudah berjalan dan service port 8081 aktif.
+[2026-09-24 14.22.00] [INFO] Service Mekari Server aktif di port 8081.
+[2026-09-24 14.22.02] [INFO] Membaca daftar koneksi aktif dari Mekari Server...
+[2026-09-24 14.22.02] [INFO] Ditemukan 1 koneksi aktif di server.
+[2026-09-24 14.22.02] [INFO] Menyinkronkan Koneksi 'DB MYSQL' (ID: 1)...
+[2026-09-24 14.22.02] [SUCCESS] BERHASIL DI SERVER - 'DB MYSQL' (ID 1): Sync in progress
+[2026-09-24 14.22.02] [SUCCESS] === [SERVER] Siklus sinkronisasi selesai: 1 koneksi sukses tersinkron ===
+[2026-09-24 14.23.00] [INFO] === [SERVER] Memulai siklus auto-sync Mekari ===
+[2026-09-24 14.23.00] [INFO] Aplikasi Mekari sudah berjalan dan service port 8081 aktif.
+[2026-09-24 14.23.00] [INFO] Service Mekari Server aktif di port 8081.
+[2026-09-24 14.23.02] [INFO] Membaca daftar koneksi aktif dari Mekari Server...
+[2026-09-24 14.23.02] [INFO] Ditemukan 1 koneksi aktif di server.
+[2026-09-24 14.23.02] [INFO] Menyinkronkan Koneksi 'DB MYSQL' (ID: 1)...
+[2026-09-24 14.23.02] [SUCCESS] BERHASIL DI SERVER - 'DB MYSQL' (ID 1): Sync in progress
+[2026-09-24 14.23.02] [SUCCESS] === [SERVER] Siklus sinkronisasi selesai: 1 koneksi sukses tersinkron ===
+[2026-09-24 14.24.00] [INFO] === [SERVER] Memulai siklus auto-sync Mekari ===
+[2026-09-24 14.24.00] [INFO] Aplikasi Mekari sudah berjalan dan service port 8081 aktif.
+[2026-09-24 14.24.00] [INFO] Service Mekari Server aktif di port 8081.
+[2026-09-24 14.24.02] [INFO] Membaca daftar koneksi aktif dari Mekari Server...
+[2026-09-24 14.24.02] [INFO] Ditemukan 1 koneksi aktif di server.
+[2026-09-24 14.24.02] [INFO] Menyinkronkan Koneksi 'DB MYSQL' (ID: 1)...
+[2026-09-24 14.24.02] [SUCCESS] BERHASIL DI SERVER - 'DB MYSQL' (ID 1): Sync in progress
+[2026-09-24 14.24.02] [SUCCESS] === [SERVER] Siklus sinkronisasi selesai: 1 koneksi sukses tersinkron ===
+[2026-09-24 14:24:18] [INFO] === [SERVER] Memulai siklus auto-sync Mekari ===
+[2026-09-24 14:24:18] [INFO] Aplikasi Mekari sudah berjalan dan service port 8081 aktif.
+[2026-09-24 14:24:18] [INFO] Service Mekari Server aktif di port 8081.
+[2026-09-24 14:24:20] [INFO] Membaca daftar koneksi aktif dari Mekari Server...
+[2026-09-24 14:24:20] [INFO] Ditemukan 1 koneksi aktif di server.
+[2026-09-24 14:24:20] [INFO] Menyinkronkan Koneksi 'DB MYSQL' (ID: 1)...
+[2026-09-24 14:24:20] [SUCCESS] BERHASIL DI SERVER - 'DB MYSQL' (ID 1): Sync in progress
+[2026-09-24 14:24:20] [SUCCESS] === [SERVER] Siklus sinkronisasi selesai: 1 koneksi sukses tersinkron ===
+[2026-09-24 14.25.00] [INFO] === [SERVER] Memulai siklus auto-sync Mekari ===
+[2026-09-24 14.25.00] [INFO] Aplikasi Mekari sudah berjalan dan service port 8081 aktif.
+[2026-09-24 14.25.00] [INFO] Service Mekari Server aktif di port 8081.
+[2026-09-24 14.25.02] [INFO] Membaca daftar koneksi aktif dari Mekari Server...
+[2026-09-24 14.25.02] [INFO] Ditemukan 1 koneksi aktif di server.
+[2026-09-24 14.25.02] [INFO] Menyinkronkan Koneksi 'DB MYSQL' (ID: 1)...
+[2026-09-24 14.25.02] [SUCCESS] BERHASIL DI SERVER - 'DB MYSQL' (ID 1): Sync in progress
+[2026-09-24 14.25.02] [SUCCESS] === [SERVER] Siklus sinkronisasi selesai: 1 koneksi sukses tersinkron ===
+[2026-09-24 14.26.00] [INFO] === [SERVER] Memulai siklus auto-sync Mekari ===
+[2026-09-24 14.26.00] [INFO] Aplikasi Mekari sudah berjalan dan service port 8081 aktif.
+[2026-09-24 14.26.00] [INFO] Service Mekari Server aktif di port 8081.
+[2026-09-24 14.26.02] [INFO] Membaca daftar koneksi aktif dari Mekari Server...
+[2026-09-24 14.26.02] [INFO] Ditemukan 1 koneksi aktif di server.
+[2026-09-24 14.26.02] [INFO] Menyinkronkan Koneksi 'DB MYSQL' (ID: 1)...
+[2026-09-24 14.26.02] [SUCCESS] BERHASIL DI SERVER - 'DB MYSQL' (ID 1): Sync in progress
+[2026-09-24 14.26.02] [SUCCESS] === [SERVER] Siklus sinkronisasi selesai: 1 koneksi sukses tersinkron ===
